@@ -27,7 +27,7 @@ Aplikasi ini mensimulasikan sistem rental buku dengan fitur peminjaman, pembayar
 ## 📸 Screenshot
 Berikut contoh tampilan program saat dijalankan:
 
-![Program Output](Screenshot.png)
+![Program Output](assets/screenshot.png)
 
 ---
 
