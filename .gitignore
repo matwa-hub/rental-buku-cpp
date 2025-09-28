@@ -1,0 +1,17 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# IDE / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Build folders
+/build/
+/bin/
+
+# Runtime/output files
+peminjam.txt
