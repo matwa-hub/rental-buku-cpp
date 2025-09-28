@@ -24,6 +24,13 @@ Aplikasi ini mensimulasikan sistem rental buku dengan fitur peminjaman, pembayar
 
 ---
 
+## 📸 Screenshot
+Berikut contoh tampilan program saat dijalankan:
+
+![Program Output](Screenshot.png)
+
+---
+
 ## 🚀 Cara Menjalankan
 
 ### 1. Clone Repository
